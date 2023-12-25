@@ -13,7 +13,7 @@ const SearchButton = ({ otherClasses }) => {
         >
             <Image 
                 src="/magnifying-glass.svg"
-                alt="maginifying glass"
+                alt="magnifying-glass"
                 width={40}
                 height={40}
                 className="object-contain"
